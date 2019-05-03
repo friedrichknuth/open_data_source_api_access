@@ -12,7 +12,7 @@ Data Sources
 #### Shuttle Radar Topography Mission
 Possible Sources: 
 
-      `elevation` python packages
+      elevation python package
       https://github.com/bopen/elevation
 
 Example Notebook: [load_srtm_by_lat_lon.ipynb](https://github.com/friedrichknuth/open_data_source_api_access/blob/master/load_srtm_by_lat_lon.ipynb)
